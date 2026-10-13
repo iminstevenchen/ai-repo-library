@@ -1,21 +1,20 @@
-# Repository Index
+# Repo Notes
 
-Curated public repositories for research, data science, and AI-assisted work.
+I add a project when I know what I want to learn from it. A star is easy to forget; a note gives me a place to start next time.
 
 ## Repositories
 
-_No repositories added yet._
+_None added yet._
 
-## Add an entry
+## Add a repo
 
-Copy this template for each repository:
+Copy this section and fill in the details:
 
-### Repository name
+### owner/repository
 
 - **URL:** 
-- **Topics:** 
-- **Useful for:** What skill or task could this help with?
-- **Start here:** Specific README section, file, example, or folder for an AI assistant to inspect.
-- **Why I saved it:** Your own brief evaluation.
-- **License:** License name or `Not checked`.
-- **Status:** `To review` · `Studying` · `Applied` · `Archived`
+- **What I want to learn:** 
+- **Start with:** A file, folder, or README section
+- **Try next:** A small task or experiment
+- **License:** 
+- **Status:** To review · Reading · Tried it · Skip
